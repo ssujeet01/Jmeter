@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1596232506808,668,GetWeatherReport,200,OK,Thread Group 1-1,text,true,,805,189,2,2,https://api.openweathermap.org/data/2.5/weather?q=Pune&appid=2a5615ffa3abe6a7074f89150450b56b,666,0,637
+1596232507233,244,GetWeatherReport,200,OK,Thread Group 1-2,text,true,,805,189,2,2,https://api.openweathermap.org/data/2.5/weather?q=Pune&appid=2a5615ffa3abe6a7074f89150450b56b,242,0,213
+1596232517478,111,GetWeatherReport,200,OK,Thread Group 1-2,text,true,,805,189,2,2,https://api.openweathermap.org/data/2.5/weather?q=Pune&appid=2a5615ffa3abe6a7074f89150450b56b,111,0,0
+1596232517478,111,GetWeatherReport,200,OK,Thread Group 1-1,text,true,,805,189,2,2,https://api.openweathermap.org/data/2.5/weather?q=Pune&appid=2a5615ffa3abe6a7074f89150450b56b,111,0,0

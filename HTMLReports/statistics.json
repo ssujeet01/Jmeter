@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 4,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 283.5,
+    "medianResTime" : 177.5,
+    "minResTime" : 111.0,
+    "maxResTime" : 668.0,
+    "pct1ResTime" : 668.0,
+    "pct2ResTime" : 668.0,
+    "pct3ResTime" : 668.0,
+    "throughput" : 0.37102309618773766,
+    "receivedKBytesPerSec" : 0.29167343010852426,
+    "sentKBytesPerSec" : 0.0684798488080883
+  },
+  "GetWeatherReport" : {
+    "transaction" : "GetWeatherReport",
+    "sampleCount" : 4,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 283.5,
+    "medianResTime" : 177.5,
+    "minResTime" : 111.0,
+    "maxResTime" : 668.0,
+    "pct1ResTime" : 668.0,
+    "pct2ResTime" : 668.0,
+    "pct3ResTime" : 668.0,
+    "throughput" : 0.37102309618773766,
+    "receivedKBytesPerSec" : 0.29167343010852426,
+    "sentKBytesPerSec" : 0.0684798488080883
+  }
+}
